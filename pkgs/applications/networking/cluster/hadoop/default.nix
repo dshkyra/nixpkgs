@@ -128,7 +128,7 @@ in {
   hadoop_2_7 = common {
     version = "2.7.7";
     sha256 = "1ahv67f3lwak3kbjvnk1gncq56z6dksbajj872iqd0awdsj3p5rf";
-    dependencies-sha256 = "1lsr9nvrynzspxqcamb10d596zlnmnfpxhkd884gdiva0frm0b1r";
+    dependencies-sha256 = "0a499ad4n70v2985kp2pfyym54vybay0h84js8ic55dfbjq0pbd6";
     tomcat = tomcat_6_0_48;
     opensslPkg = openssl_1_0_2;
   };
